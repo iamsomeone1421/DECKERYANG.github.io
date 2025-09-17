@@ -1,0 +1,81 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: grey;
+    font-family: Montserrat;
+}
+
+
+a {
+    padding: 85px;
+    padding-bottom: 30px;
+    font-size: 40px;
+    background-color: lightgreen;
+    height: 20px;
+    border-radius: 40px;
+    color: blue;
+    text-decoration: none;
+      }
+      a:hover {
+        background-color: rgb(12, 155, 24);
+       
+      }
+
+
+
+
+      .button {
+        background-color: #04AA6D; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      }
+
+
+h2 {
+    font-family: Montserrat;
+    font-size: 43px;
+    margin-right: auto;
+    margin-left: 200px;
+    width: 40%;
+    margin-top: -425px;
+}
+
+
+h3 {
+    font-family: Montserrat;
+    font-size: 40px;
+    color: grey;
+    text-align: center;
+}
+
+
+p {
+    font-family: Montserrat;
+    font-size: 30px;
+    color: grey;
+    margin-top: 50px;
+}
+
+
+h4 {
+    font-family: Montserrat;
+    font-size: 35px;
+    color: black;
+    margin-top: 50px;
+}
+
+
+img {
+    margin-left: 1100px;
+    width: 30%;
+}
+
+
+body {
+    background-color: blanchedalmond;
+}
